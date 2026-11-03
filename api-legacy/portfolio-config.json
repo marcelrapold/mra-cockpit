@@ -189,7 +189,7 @@
       "forecast": "Minimal",
       "vercel": "https://vercel.com/zvv/zvv-fund-pilot"
     },
-    "muraschal/pdf2text": {
+    "marcelrapold/pdf2text": {
       "name": "PDF2Text API",
       "work": "Hosting, API-Stabilität",
       "mode": "run",
@@ -347,7 +347,7 @@
       "ptMid": 1,
       "cat": "run"
     },
-    "muraschal/paris": {
+    "marcelrapold/paris": {
       "name": "Paris",
       "work": "Fullstack, Experiment",
       "mode": "build",
@@ -357,7 +357,7 @@
       "cat": "change",
       "lcNote": "Side Project"
     },
-    "muraschal/lnhunt": {
+    "marcelrapold/mra-lnhunt": {
       "name": "LN Hunt",
       "work": "Lightning Network, BTC",
       "mode": "build",
@@ -367,7 +367,7 @@
       "cat": "change",
       "lcNote": "Bitcoin / Lightning Project"
     },
-    "muraschal/memory": {
+    "marcelrapold/memory": {
       "name": "Memory",
       "work": "Frontend, Game",
       "mode": "build",
@@ -450,25 +450,25 @@
   ],
   "exclude": [
     "rapold-io/copycat-seetreff",
-    "muraschal/austin-tech-beer-map",
-    "muraschal/BeerMap",
-    "muraschal/bitcoin-association-switzerland",
-    "muraschal/chain-duel",
-    "muraschal/darden",
-    "muraschal/finCheck",
-    "muraschal/hwz-cas-bitcoin-lightning",
-    "muraschal/hwz-case-studies",
-    "muraschal/hwz-hangman",
-    "muraschal/Kebab",
-    "muraschal/maptoposter",
-    "muraschal/muraschal",
-    "muraschal/streamrip",
-    "muraschal/zvv-email-templates",
-    "muraschal/zvv-kundenkonto",
-    "muraschal/zvv-landingpage",
-    "muraschal/zvv-pm",
-    "muraschal/zvv-statuspage",
-    "muraschal/zvv-styleguide",
+    "marcelrapold/austin-tech-beer-map",
+    "marcelrapold/BeerMap",
+    "marcelrapold/bitcoin-association-switzerland",
+    "marcelrapold/chain-duel",
+    "marcelrapold/darden",
+    "marcelrapold/finCheck",
+    "marcelrapold/hwz-cas-bitcoin-lightning",
+    "marcelrapold/hwz-case-studies",
+    "marcelrapold/hwz-hangman",
+    "marcelrapold/Kebab",
+    "marcelrapold/maptoposter",
+    "marcelrapold/muraschal",
+    "marcelrapold/streamrip",
+    "marcelrapold/zvv-email-templates",
+    "marcelrapold/zvv-kundenkonto",
+    "marcelrapold/zvv-landingpage",
+    "marcelrapold/zvv-pm",
+    "marcelrapold/zvv-statuspage",
+    "marcelrapold/zvv-styleguide",
     "zvvch/.github"
   ]
 }

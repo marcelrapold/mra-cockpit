@@ -2,7 +2,7 @@ const CONFIG = require('../portfolio-config.json');
 const { isExcludedRepo } = require('./repo-exclusions');
 
 const TOKEN = process.env.GITHUB_TOKEN;
-const USER = process.env.GITHUB_USER || 'muraschal';
+const USER = process.env.GITHUB_USER || 'marcelrapold';
 const ORGS = (process.env.GITHUB_ORGS || '').split(',').map(s => s.trim()).filter(Boolean);
 
 const MODE_LABELS = { build: 'Build', run: 'Run', improve: 'Improve', govern: 'Govern' };

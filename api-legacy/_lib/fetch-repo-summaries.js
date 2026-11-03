@@ -182,7 +182,7 @@ async function fetchRepoSummaries(opts = {}) {
   // Auf Vercel Functions kommt der OIDC-Token als request-header `x-vercel-oidc-token`
   // (nicht als process.env), deshalb hier KEIN Pre-Flight-Check.
 
-  const user = process.env.GITHUB_USER || 'muraschal';
+  const user = process.env.GITHUB_USER || 'marcelrapold';
   const orgs = (process.env.GITHUB_ORGS || '').split(',').map(s => s.trim()).filter(Boolean);
 
   const repos = await listAllRepos(token, user, orgs);

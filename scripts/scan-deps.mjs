@@ -12,7 +12,7 @@ const require = createRequire(import.meta.url);
 const { isExcludedRepo } = require('../api-legacy/_lib/repo-exclusions.js');
 
 const TOKEN = process.env.GITHUB_TOKEN || process.env.GH_TOKEN;
-const USER = process.env.GITHUB_USER || 'muraschal';
+const USER = process.env.GITHUB_USER || 'marcelrapold';
 const ORGS = (process.env.GITHUB_ORGS || '').split(',').map(s => s.trim()).filter(Boolean);
 const LOCAL_ROOT = process.env.SCAN_ROOT || '';
 const SKIP = new Set(['.github', 'node_modules']);
