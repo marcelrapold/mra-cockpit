@@ -81,7 +81,7 @@ export function AtlasNavigation({ active, accountMenu = false }: { active: Activ
             API
           </a>
           <a
-            href="https://github.com/marcelrapold/mra-cockpit"
+            href="https://github.com/rapold-io/mra-cockpit"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex h-8 w-8 items-center justify-center rounded-md border border-white/10 bg-white/[0.03] text-slate-400 transition hover:border-sky-300/35 hover:text-sky-100"

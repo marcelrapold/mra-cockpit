@@ -4,7 +4,7 @@
   "count": 84,
   "orgs": [
     "zvvch",
-    "marcelrapold",
+    "rapold-io",
     "ALPA-one"
   ],
   "user": "muraschal",
@@ -425,8 +425,8 @@
         "management"
       ]
     },
-    "marcelrapold/radiox": {
-      "full": "marcelrapold/radiox",
+    "rapold-io/radiox": {
+      "full": "rapold-io/radiox",
       "oneLiner": "KI-Radio-Content-Plattform mit 11 FastAPI-Microservices, die automatisch News aggregieren, AI-Sendungen skripten und Audio über ElevenLabs generieren — React-Frontend, Supabase-Backend.",
       "purpose": "RadioX automatisiert die komplette Produktionskette einer KI-generierten Radiosendung: Content Collector und Processor harvesten RSS- und Social-Feeds, der Show Service plant Sendungen, und der Audio Service synthetisiert Sprache via ElevenLabs. Die 11 unabhängigen FastAPI-Services kommunizieren über ein API-Gateway; Supabase dient als primäre Datenschicht. Ein Telegram-Bot erlaubt operative Steuerung der Plattform.",
       "stack": "Python, FastAPI, React, Supabase, ElevenLabs, Vercel, Telegram Bot API",
@@ -441,8 +441,8 @@
         "fastapi"
       ]
     },
-    "marcelrapold/aeon-homepage": {
-      "full": "marcelrapold/aeon-homepage",
+    "rapold-io/aeon-homepage": {
+      "full": "rapold-io/aeon-homepage",
       "oneLiner": "Statische Single-Page-Homepage für das AI-Operator-Persona ÆON (Marcel Rapold) — Glassmorphism-Dark-Theme, Zero-Dependencies, deployed auf Vercel.",
       "purpose": "Die Seite präsentiert ÆON als klonbaren AI-Operator und Senior Sparring Partner mit animiertem Terminal-Showcase, Glassmorphism-Karten und Scroll-Animationen via IntersectionObserver. Es gibt keinen Build-Schritt und keine externen Abhängigkeiten; das Deployment erfolgt durch direkten Vercel-Auto-Deploy bei Push auf main. OG-Meta-Tags und ein SVG-Favicon sind für Social-Sharing konfiguriert.",
       "stack": "HTML5, CSS, Vanilla JS, Vercel",
@@ -456,8 +456,8 @@
         "personal"
       ]
     },
-    "marcelrapold/openclaw-bridge": {
-      "full": "marcelrapold/openclaw-bridge",
+    "rapold-io/openclaw-bridge": {
+      "full": "rapold-io/openclaw-bridge",
       "oneLiner": "Bidirektionale WebSocket-Bridge zwischen zwei OpenClaw-Instanzen (ÆON ↔ ÆTHRA) im LAN, die die fehlende Bot-zu-Bot-Kommunikation in Telegram-Gruppen überbrückt.",
       "purpose": "Die Bridge löst die Einschränkung der Telegram-Bot-API, die keine nativen Bot-zu-Bot-Nachrichten in Gruppen-Chats zulässt. Sie öffnet eine persistente WebSocket-Verbindung zwischen den lokalen OpenClaw-Instanzen von ÆON (claude-opus-4) und ÆTHRA (claude-haiku) und leitet Nachrichten bidirektional weiter. ÆON übernimmt dabei die Control-Plane-Rolle (Architektur, Security), ÆTHRA die Delivery-Plane (Kommunikation, Implementierung).",
       "stack": "Node.js, JavaScript, WebSocket",
@@ -472,8 +472,8 @@
         "openclaw"
       ]
     },
-    "marcelrapold/soul": {
-      "full": "marcelrapold/soul",
+    "rapold-io/soul": {
+      "full": "rapold-io/soul",
       "oneLiner": "Identitäts- und Betriebsspezifikation (SOUL.md) für den KI-Operator ÆON — definiert Persönlichkeit, Verhaltensprinzipien und Multi-Agent-Protokolle, ohne Code-Abhängigkeiten.",
       "purpose": "Dieses Repo enthält ausschließlich SOUL.md, ein maschinenlesbares Spezifikationsdokument, das ÆONs Identität, Verhaltensgrenzen und Multi-Agent-Protokolle festlegt. Das Dokument wird beim Session-Start in den ÆON-Workspace (OpenClaw) geladen und wirkt als primäre Persönlichkeits-Firmware. Es ersetzt konfigurierbare Prompt-Fragmente durch eine versionierbare, auditierbare Spezifikation.",
       "stack": "markdown, openclaw",
@@ -487,8 +487,8 @@
         "aeon"
       ]
     },
-    "marcelrapold/explorative-web": {
-      "full": "marcelrapold/explorative-web",
+    "rapold-io/explorative-web": {
+      "full": "rapold-io/explorative-web",
       "oneLiner": "Sandbox für schnelle Web-Experimente und UI-Prototypen ohne Build-Tools, als statisches HTML/CSS/JS auf Vercel deployed.",
       "purpose": "Playground-Repo für isolierte Frontend-Experimente und Creative-Coding-Skizzen auf Basis von Vanilla HTML, CSS und JavaScript. Kein Framework, kein Build-Schritt — direktes Öffnen via index.html oder Auto-Deploy auf Vercel. Dient als schnelle Erprobungsfläche ohne Projekt-Overhead.",
       "stack": "html5, css3, vanilla js, vercel",
@@ -502,8 +502,8 @@
         "vercel"
       ]
     },
-    "marcelrapold/aeon-skills": {
-      "full": "marcelrapold/aeon-skills",
+    "rapold-io/aeon-skills": {
+      "full": "rapold-io/aeon-skills",
       "oneLiner": "Modulare Skill-Bibliothek für den ÆON-AI-Operator auf OpenClaw-Basis — strukturierte Workflows für Engineering, Security und Deployment in Python/Markdown.",
       "purpose": "Enthält 11 kuratierte Custom Skills für ÆON, die über das OpenClaw-Konventionsformat (SKILL.md + YAML-Frontmatter + optionales references/-Verzeichnis) definiert sind. Abgedeckte Domänen umfassen Website-Cloning (copycat), lokales Dev-Environment-Management, Sicherheits-Audits (sentinel-ai), Requirement Engineering und GitHub-Deployment. Skills sind modular austauschbar und einzeln auditierbar.",
       "stack": "python, markdown, openclaw, vercel",
@@ -517,8 +517,8 @@
         "engineering"
       ]
     },
-    "marcelrapold/fahrplaninfo-zvv": {
-      "full": "marcelrapold/fahrplaninfo-zvv",
+    "rapold-io/fahrplaninfo-zvv": {
+      "full": "rapold-io/fahrplaninfo-zvv",
       "oneLiner": "Technische Analyse und Renewal-Spezifikation für fahrplaninfo.zvv.ch — dokumentiert den Legacy-PHP/jQuery-Stack und definiert Next.js 15 + Supabase als Zielarchitektur.",
       "purpose": "Das Repo enthält zwei Kerndokumente: REVERSE-ENGINEERING.md (~400 Zeilen) mit vollständiger Analyse der bestehenden Applikation (6 Endpunkte, Autocomplete-API, Linien-ID-System, PDF-Storage) und REQUIREMENTS.md (~600 Zeilen) mit 85 funktionalen und 30 nicht-funktionalen Anforderungen für das Renewal. Es dient als Übergabedokument zwischen Analyse und Implementierungsphase und enthält einen 9-Wochen-Projektplan in 3 Phasen.",
       "stack": "next.js 15, supabase, vercel, php (legacy), jquery (legacy)",
@@ -533,8 +533,8 @@
         "supabase"
       ]
     },
-    "marcelrapold/memento": {
-      "full": "marcelrapold/memento",
+    "rapold-io/memento": {
+      "full": "rapold-io/memento",
       "oneLiner": "Minimalistisches Single-User-Tagebuch mit einem Eintrag pro Tag, Stimmungs-Tracker und Timeline, gebaut auf Next.js 15, React 19 und Supabase.",
       "purpose": "Memento erzwingt täglich genau einen Journal-Eintrag und eliminiert damit Overloading durch unbegrenzte Notizen. Der Stimmungs-Tracker (4 Stufen) und ein Streak-Zähler liefern longitudinale Übersicht über eine chronologische Timeline. Das MVP verzichtet bewusst auf Authentifizierung (Single-User) und nutzt Supabase/PostgreSQL als persistenten Backend-Store.",
       "stack": "next.js 15, react 19, typescript, supabase, supabase-ssr, vercel, custom css",
@@ -548,8 +548,8 @@
         "typescript"
       ]
     },
-    "marcelrapold/zvv-zonenplan": {
-      "full": "marcelrapold/zvv-zonenplan",
+    "rapold-io/zvv-zonenplan": {
+      "full": "rapold-io/zvv-zonenplan",
       "oneLiner": "Interaktive 3D-Visualisierung der ZVV-Tarifzonen als frameworkfreie statische HTML-Applikation mit Three.js.",
       "purpose": "Stellt die ZVV-Tarifzonenstruktur als interaktive 3D-Grafik dar, realisiert mit Three.js direkt in einer statischen HTML-Datei ohne Build-Toolchain. Detailliertere Implementierungsziele sind aus dem leeren README nicht ableitbar.",
       "stack": "html, three.js",
@@ -564,8 +564,8 @@
         "static"
       ]
     },
-    "marcelrapold/zvv-fahrplan": {
-      "full": "marcelrapold/zvv-fahrplan",
+    "rapold-io/zvv-fahrplan": {
+      "full": "rapold-io/zvv-fahrplan",
       "oneLiner": "Zero-Dependency-Webapp, die HAFAS, OJP und Transport OpenData parallel abfragt und ZVV-Verbindungen side-by-side vergleicht, deployed auf Vercel.",
       "purpose": "Das Tool richtet drei simultane API-Anfragen an HAFAS Cloud (SBB), OJP Swiss National Router und Transport OpenData und stellt die Ergebnisse im Vergleich dar. Es macht Unterschiede in Routing, Timing und Echtzeit-Daten zwischen den Backends sichtbar. Die Zero-Dependency-Architektur (reines HTML/JS) hält Latenz und Deployment-Komplexität minimal.",
       "stack": "html5, vanilla js, vercel, hafas api, ojp api, transport opendata api",
@@ -580,8 +580,8 @@
         "switzerland"
       ]
     },
-    "marcelrapold/aethra-skills": {
-      "full": "marcelrapold/aethra-skills",
+    "rapold-io/aethra-skills": {
+      "full": "rapold-io/aethra-skills",
       "oneLiner": "Skill-Bibliothek für den lokalen KI-Operator ÆTHRA — 7 OpenClaw-Skills optimiert für NVIDIA RTX-Inference auf Qwen3-VL-8B/30B ohne Cloud-Abhängigkeit.",
       "purpose": "Stellt 7 domänenspezifische Skills für den ÆTHRA-Operator bereit, die explizit für lokale LLM-Inference auf RTX 5080/5090-Hardware optimiert sind (kurze System-Prompts ≤500 Token, Single-Task-Requests, automatisches Escalation-Routing von 8B auf 30B). Abgedeckte Fähigkeiten: ZVV-Fahrplanabfragen, Code-Review, Security-Audits, Requirement Engineering, Domain-OSINT, Journal-Automatisierung und ElevenLabs-TTS. Zero Cloud Dependency für alle LLM-Tasks.",
       "stack": "html, markdown, openclaw, qwen3-vl-8b, qwen3-vl-30b, elevenlabs api",
@@ -596,8 +596,8 @@
         "nvidia"
       ]
     },
-    "marcelrapold/ai-arena": {
-      "full": "marcelrapold/ai-arena",
+    "rapold-io/ai-arena": {
+      "full": "rapold-io/ai-arena",
       "oneLiner": "Multi-Modell-Benchmark- und Vergleichsplattform für KI-Modelle — Zweck aus README nicht ableitbar, nur GitHub-Description verfügbar.",
       "purpose": "Zweck aus README nicht ableitbar. Die GitHub-Description nennt eine Multi-Modell-Benchmark- und Vergleichsfunktion; Implementierungsdetails, genutzte Modelle und Auswertungsmetriken sind mangels README nicht dokumentiert.",
       "stack": "html",
@@ -610,8 +610,8 @@
         "experimental"
       ]
     },
-    "marcelrapold/dezentralschweiz-ep66-bitcoin-baden": {
-      "full": "marcelrapold/dezentralschweiz-ep66-bitcoin-baden",
+    "rapold-io/dezentralschweiz-ep66-bitcoin-baden": {
+      "full": "rapold-io/dezentralschweiz-ep66-bitcoin-baden",
       "oneLiner": "Statisches HTML-Transkript der Dezentralschweiz-Podcast-Episode #66 über das Bitcoin-Baden-Event vom 6. Dezember 2025.",
       "purpose": "Archiviert das Transkript einer einzelnen Podcast-Episode als statische HTML-Seite. Das Repo dient als öffentlich zugängliche Textreferenz zur Episode, ohne interaktive Funktionalität. Zweck über ein README nicht weiter ableitbar.",
       "stack": "html",
@@ -624,8 +624,8 @@
         "static-site"
       ]
     },
-    "marcelrapold/aeon-cli": {
-      "full": "marcelrapold/aeon-cli",
+    "rapold-io/aeon-cli": {
+      "full": "rapold-io/aeon-cli",
       "oneLiner": "Plugin-basiertes Bash/Python-CLI-Framework für Raspberry-Pi-Fleet-Management und Cyberpunk-tmux-Dashboards, betrieben durch den AI-Agenten ÆON.",
       "purpose": "ÆON CLI ermöglicht die zentrale Verwaltung einer Raspberry-Pi-Flotte von einem einzigen Terminal aus — inklusive One-Command-Deployment, Fleet-Sync und auflösungsadaptiven tmux-Dashboards mit Matrix-Animationen, Live-Krypto-Charts und System-Monitoring. Das Framework erkennt Display-Auflösungen automatisch (640×480 bis 4K) und passt sein Layout entsprechend an. Archiviert; Nachfolger ist das öffentliche Repo `marcelrapold/cli`.",
       "stack": "bash 5.x, python 3.9+, tmux, raspberry pi",
@@ -640,8 +640,8 @@
         "ai-agent"
       ]
     },
-    "marcelrapold/aeon-workspace": {
-      "full": "marcelrapold/aeon-workspace",
+    "rapold-io/aeon-workspace": {
+      "full": "rapold-io/aeon-workspace",
       "oneLiner": "Privates Mono-Repo als persönliche AI-Operator-Infrastruktur für Marcel Rapold — bündelt CLI, Deployment-Scripts, Skill-Configs und Projektverweise für ÆON & ÆTHRA.",
       "purpose": "Dient als zentrales Organisations- und Deployment-Repository für die gesamte persönliche Infrastruktur von Marcel Rapold. Es enthält Verweise und Konfigurationen für Raspberry-Pi-Deployments, RadioX- und ZVV-Projekte sowie das AI-Identitäts- und Memory-System der Agenten ÆON und ÆTHRA. Das Terminal-Dashboard wird über `blessed` / `blessed-contrib` gerendert.",
       "stack": "typescript, node.js, blessed, blessed-contrib, bash",
@@ -656,8 +656,8 @@
         "internal-tool"
       ]
     },
-    "marcelrapold/skills": {
-      "full": "marcelrapold/skills",
+    "rapold-io/skills": {
+      "full": "rapold-io/skills",
       "oneLiner": "Versionierte, zentrale Skill-Bibliothek mit 16 modularen Python-Instruction-Sets für die AI-Agenten ÆON und ÆTHRA.",
       "purpose": "Single Source of Truth für alle Fähigkeiten der rapoldio-AI-Agenten-Flotte. Skills sind modulare Instruction-Sets, die Agenten spezialisierte Capabilities verleihen — von ÖV-Routing bis Security-Auditing. Das gemeinsame Repo verhindert Drift zwischen den Agenten und macht alle Änderungen auditierbar und versioniert.",
       "stack": "python",
@@ -687,8 +687,8 @@
         "homelab"
       ]
     },
-    "marcelrapold/aeon-webconsole": {
-      "full": "marcelrapold/aeon-webconsole",
+    "rapold-io/aeon-webconsole": {
+      "full": "rapold-io/aeon-webconsole",
       "oneLiner": "Browser-basiertes Terminal-Frontend für aeon-cli auf Raspberry Pi — xterm.js über WebSocket mit bcrypt-Authentifizierung, deployed auf Vercel.",
       "purpose": "Ermöglicht passwortgeschützten Remote-Zugriff auf das aeon-cli-tmux-Dashboard per Browser, ohne VPN oder SSH-Client. Das Frontend läuft auf Vercel (Next.js), kommuniziert via Socket.IO-WebSocket mit einem Shell-Prozess auf dem Raspberry Pi und rendert die Ausgabe in xterm.js mit 256-Farb-Unterstützung. Authentifizierung erfolgt über bcrypt-gesicherte Session-Cookies.",
       "stack": "next.js 14, react, xterm.js, socket.io, websocket, bcryptjs, vercel, raspberry pi, typescript",
@@ -703,8 +703,8 @@
         "homelab"
       ]
     },
-    "marcelrapold/aeon-web-dashboard": {
-      "full": "marcelrapold/aeon-web-dashboard",
+    "rapold-io/aeon-web-dashboard": {
+      "full": "rapold-io/aeon-web-dashboard",
       "oneLiner": "Browser-basiertes Cyberpunk-Dashboard als Web-Äquivalent des aeon-cli-Terminals — Live-Krypto, Wetter, Weltuhren und Pi-System-Stats via Next.js 14.",
       "purpose": "Repliziert das aeon-cli-tmux-Dashboard als passwortgeschützte Next.js-Web-Applikation im Browser. Zeigt Live-Kryptopreise (BTC, ETH, Gold), Zürcher Wetter, Weltuhren, einen News-Ticker und System-Stats vom Raspberry Pi — ergänzt durch eine Canvas-basierte Matrix-Rain-Animation. Deployment erfolgt via Vercel.",
       "stack": "next.js 14, react 18, recharts, rss-parser, date-fns, canvas api, vercel, typescript",
@@ -719,8 +719,8 @@
         "internal-tool"
       ]
     },
-    "marcelrapold/romy-bayer": {
-      "full": "marcelrapold/romy-bayer",
+    "rapold-io/romy-bayer": {
+      "full": "rapold-io/romy-bayer",
       "oneLiner": "Kundenwebsite für Psychologin und Meditationslehrerin Romy Bayer mit Glassmorphism-Design, gebaut auf Next.js und TypeScript.",
       "purpose": "Statische Präsenzwebsite für eine selbstständige Psychologin und Meditationslehrerin. Das Projekt verwendet Next.js mit App Router und TypeScript; das README enthält ausschliesslich den `create-next-app`-Boilerplate, spezifische Inhalte und Seitenstruktur sind daraus nicht ableitbar. Deployment via Vercel vom `main`-Branch.",
       "stack": "next.js, react, typescript, vercel",
@@ -733,8 +733,8 @@
         "static-site"
       ]
     },
-    "marcelrapold/cv-marcelrapold": {
-      "full": "marcelrapold/cv-marcelrapold",
+    "rapold-io/cv-marcelrapold": {
+      "full": "rapold-io/cv-marcelrapold",
       "oneLiner": "Persönliche CV- und Portfolio-Website für marcelrapold.com — animiert mit Framer Motion, Dark-Mode, Vercel Analytics, deployed auf Vercel.",
       "purpose": "Dient als öffentliches CV und Portfolio für Marcel Rapold unter marcelrapold.com. Die App setzt auf Next.js mit Framer-Motion-Animationen, Dark-Mode-Unterstützung via `next-themes` und Vercel Analytics für Traffic-Auswertung. Inhaltliche Seitenstruktur ist aus dem leeren README nicht ableitbar.",
       "stack": "next.js, react, typescript, framer-motion, next-themes, tailwind, vercel analytics, vercel",
@@ -747,8 +747,8 @@
         "next.js"
       ]
     },
-    "marcelrapold/cv-muriellebielawski": {
-      "full": "marcelrapold/cv-muriellebielawski",
+    "rapold-io/cv-muriellebielawski": {
+      "full": "rapold-io/cv-muriellebielawski",
       "oneLiner": "Statische Portfolio-Website für Physiotherapeutin Murielle Bielawski, gebaut mit Next.js, Tailwind und Framer Motion.",
       "purpose": "Öffentliche Präsenzwebsite für eine Physiotherapeutin, gebaut als Next.js-Applikation mit Framer-Motion-Animationen und Tailwind-basierten Styles. Technischer Stack ist identisch mit `cv-marcelrapold`; inhaltliche Details und Seitenstruktur sind aus dem leeren README nicht ableitbar. Deployment vermutlich via Vercel.",
       "stack": "next.js, react, typescript, framer-motion, next-themes, tailwind, vercel",
@@ -761,8 +761,8 @@
         "static-site"
       ]
     },
-    "marcelrapold/mycvbuilder.app": {
-      "full": "marcelrapold/mycvbuilder.app",
+    "rapold-io/mycvbuilder.app": {
+      "full": "rapold-io/mycvbuilder.app",
       "oneLiner": "KI-native Lebenslauf-Plattform, die hochgeladene CVs per GPT-4.1 in strukturierte, öffentlich teilbare Profilseiten umwandelt — Next.js-Monorepo mit Supabase-Backend.",
       "purpose": "Nutzer laden ein PDF/DOCX/TXT-Dokument hoch; GPT-4.1 extrahiert und überarbeitet die Abschnitte in einem redaktionellen Stil und speichert das Ergebnis als öffentliche Profilseite unter einem eindeutigen Slug. Ein eingebetteter AI-Chat-Bubble ermöglicht iteratives Nachbearbeiten des generierten Profils direkt im Browser. Das Projekt adressiert damit den Medienbruch zwischen rohem Lebens­lauf­dokument und professioneller Onlinepräsenz.",
       "stack": "Next.js 16 · React · TypeScript · Supabase (Postgres, Auth, Storage) · OpenAI GPT-4.1 · Vercel · Turborepo",
@@ -776,8 +776,8 @@
         "nextjs"
       ]
     },
-    "marcelrapold/news.rapold.io": {
-      "full": "marcelrapold/news.rapold.io",
+    "rapold-io/news.rapold.io": {
+      "full": "rapold-io/news.rapold.io",
       "oneLiner": "Selbst-gehostetes OSINT-Intelligence-Dashboard mit 27 Live-Datenquellen (Satelliten, Märkte, Konflikte) — Node.js/Express, minimal Dependencies, Docker-ready.",
       "purpose": "Crucix aggregiert 27 öffentliche OSINT-Quellen — darunter Satellitenfeuerdetektierung, Flugtracking, Strahlungsmonitoring und Live-Marktpreise — und stellt sie in einem lokal betreibbaren Web-Dashboard dar. Das Backend besteht aus einem einzigen Express-Server mit keinen weiteren Laufzeit-Dependencies; Deployment erfolgt per Docker oder direkt mit Node 22+. Ein optionaler LLM-Layer sowie Auto-Refresh sind in der Produkt­beschreibung erwähnt.",
       "stack": "Node.js 22 · Express · Docker · Vanilla JS · AGPL-3.0",
@@ -791,8 +791,8 @@
         "node"
       ]
     },
-    "marcelrapold/SnapMacros": {
-      "full": "marcelrapold/SnapMacros",
+    "rapold-io/SnapMacros": {
+      "full": "rapold-io/SnapMacros",
       "oneLiner": "KI-gestütztes Mahlzeiten-Tracking-Monorepo mit Next.js-PWA und nativer SwiftUI-iOS-App — dualer AI-Engine (Claude + GPT-4o) auf Supabase-Backend.",
       "purpose": "Nutzer fotografieren eine Mahlzeit; die App analysiert das Bild über einen dualen AI-Engine (Claude + GPT-4o) und trackt Makronährstoffe automatisch. Das Monorepo enthält eine Next.js 16 PWA und eine native SwiftUI-App, die dasselbe Supabase-Backend (Auth, Postgres, Storage) und dieselben API-Routes (/api/analyze, /api/recommend, /api/voice) nutzen. Geteilte Typen und das DB-Schema liegen in einem gemeinsamen Package.",
       "stack": "Next.js 16 · SwiftUI · TypeScript · Supabase · OpenAI GPT-4o · Anthropic Claude · Turborepo · Vercel",
@@ -807,8 +807,8 @@
         "pwa"
       ]
     },
-    "marcelrapold/cockpit": {
-      "full": "marcelrapold/cockpit",
+    "rapold-io/cockpit": {
+      "full": "rapold-io/cockpit",
       "oneLiner": "Persönliches Engineering-Dashboard, das GitHub-, Vercel- und Supabase-Metriken — Commits, Deployments, Uptime, Sprachverteilung — in einer Vanilla-JS-SPA bündelt.",
       "purpose": "Cockpit aggregiert Live-Daten aus GitHub (Commits, Issues, PRs, Contribution-Heatmap), Vercel (Deployments, Erfolgsquoten) und Supabase (DB-Health) in einer einzigen, build-step-freien HTML-Seite mit Vercel Serverless Functions als Backend. Redis (ioredis) dient als Cache-Schicht für die API-Antworten. Multi-Org- und Multi-Team-Unterstützung sowie ein Kiosk-Modus für Wall-Displays sind integriert.",
       "stack": "Vanilla JS · HTML · Vercel Serverless Functions · ioredis · Next.js (teilweise) · GitHub Actions",
@@ -822,8 +822,8 @@
         "monitoring"
       ]
     },
-    "marcelrapold/dominicanoexpress.com": {
-      "full": "marcelrapold/dominicanoexpress.com",
+    "rapold-io/dominicanoexpress.com": {
+      "full": "rapold-io/dominicanoexpress.com",
       "oneLiner": "Produktionsplattform für Dominicano Express: trilinguale Website, eingebetteter ID-Scanner, OCR/MRZ-Profil-Engine, Vercel API Routes und Resend-Mail-Workflow.",
       "purpose": "Das Repository bündelt die öffentliche Dominicano-Express-Website und einen operativen Scanner-Workflow für Ausweise, Pässe und Führerausweise. Neben der Marketing-/Conversion-Oberfläche enthält es modulare OCR/MRZ-Profile für mehrere Länder, Bild-Cropping, Auto-Capture, i18n, Vercel-Routing, OG-Image-Generation und eine Backend-Funktion für Scan-E-Mails via Resend.",
       "stack": "HTML · CSS · TypeScript/ESM · esbuild · Vercel Functions · Resend · @vercel/og · ocr.space API",

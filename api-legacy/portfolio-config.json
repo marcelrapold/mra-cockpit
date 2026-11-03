@@ -69,7 +69,7 @@
       "forecast": "Nein — abgeschlossen",
       "vercel": "https://vercel.com/zvv/zvv-tama"
     },
-    "marcelrapold/radiox": {
+    "rapold-io/radiox": {
       "name": "RadioX",
       "work": "FastAPI, Supabase, ElevenLabs, GPT-4",
       "mode": "build",
@@ -81,7 +81,7 @@
       "forecast": "Open — Side Project",
       "vercel": "https://vercel.com/muraschal/radiox"
     },
-    "marcelrapold/mycvbuilder.app": {
+    "rapold-io/mycvbuilder.app": {
       "name": "MyCVBuilder",
       "work": "Next.js, AI SDK, Fullstack",
       "mode": "build",
@@ -93,7 +93,7 @@
       "forecast": "Open",
       "vercel": "https://vercel.com/muraschal/mycvbuilder.app"
     },
-    "marcelrapold/dominicanoexpress.com": {
+    "rapold-io/dominicanoexpress.com": {
       "name": "Dominicano Express",
       "work": "Website, OCR-Scanner, API, E-Mail",
       "mode": "build",
@@ -200,7 +200,7 @@
       "lcNote": "Infrastruktur-Service für Downstream-Apps",
       "forecast": "Ja — solange Downstream läuft"
     },
-    "marcelrapold/mra-cockpit": {
+    "rapold-io/mra-cockpit": {
       "name": "Cockpit",
       "work": "GitHub, Vercel, Supabase APIs",
       "mode": "build",
@@ -376,7 +376,7 @@
       "ptMid": 1,
       "cat": "change"
     },
-    "marcelrapold/mra-cv": {
+    "rapold-io/mra-cv": {
       "name": "CV Marcel Rapold",
       "work": "Portfolio, CV",
       "mode": "build",
@@ -385,7 +385,7 @@
       "ptMid": 1,
       "cat": "steward"
     },
-    "marcelrapold/cv-muriellebielawski": {
+    "rapold-io/cv-muriellebielawski": {
       "name": "CV Murielle Bielawski",
       "work": "Portfolio, CV",
       "mode": "build",
@@ -394,7 +394,7 @@
       "ptMid": 1,
       "cat": "steward"
     },
-    "marcelrapold/mra-news": {
+    "rapold-io/mra-news": {
       "name": "News Rapold",
       "work": "Content, Blog",
       "mode": "build",
@@ -403,7 +403,7 @@
       "ptMid": 1,
       "cat": "steward"
     },
-    "marcelrapold/romy-bayer": {
+    "rapold-io/romy-bayer": {
       "name": "Romy Bayer",
       "work": "Portfolio Website",
       "mode": "build",
@@ -412,7 +412,7 @@
       "ptMid": 1,
       "cat": "change"
     },
-    "marcelrapold/SnapMacros": {
+    "rapold-io/SnapMacros": {
       "name": "SnapMacros",
       "work": "macOS App, Swift",
       "mode": "build",
@@ -449,7 +449,7 @@
     }
   ],
   "exclude": [
-    "marcelrapold/copycat-seetreff",
+    "rapold-io/copycat-seetreff",
     "muraschal/austin-tech-beer-map",
     "muraschal/BeerMap",
     "muraschal/bitcoin-association-switzerland",

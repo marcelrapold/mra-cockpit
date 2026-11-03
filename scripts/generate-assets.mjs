@@ -11,7 +11,7 @@ const APP_NAME = process.env.APP_NAME || 'Cockpit';
 const APP_DOMAIN = process.env.APP_DOMAIN || 'cockpit.rapold.io';
 
 // ---------------------------------------------------------------------------
-// Signet: freigegebenes Cockpit-Signet aus Atlas (marcelrapold/mra-atlas,
+// Signet: freigegebenes Cockpit-Signet aus Atlas (rapold-io/mra-atlas,
 // brands/rapold/assets/logos/cockpit.svg und light/cockpit.svg), unverändert
 // nach public/brand/ übernommen. Hier nur zusammengesetzt, nicht neu gezeichnet.
 // ---------------------------------------------------------------------------

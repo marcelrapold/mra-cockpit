@@ -2,7 +2,7 @@
 
 Cockpit kann den privaten Modus statt mit HTTP Basic Auth über den Rapold-IdP
 [auth.rapold.io](https://auth.rapold.io) (Authelia, Repo
-[mra-auth](https://github.com/marcelrapold/mra-auth)) schützen. Der Code ist auf `main`;
+[mra-auth](https://github.com/rapold-io/mra-auth)) schützen. Der Code ist auf `main`;
 er wird erst aktiv, wenn **alle vier** Variablen `OIDC_ISSUER`, `OIDC_CLIENT_ID`,
 `OIDC_CLIENT_SECRET` und `AUTH_SECRET` (mindestens 32 Zeichen) gesetzt sind. Bis dahin
 gilt unverändert Basic Auth (`COCKPIT_PRIVATE_BASIC_AUTH`).
