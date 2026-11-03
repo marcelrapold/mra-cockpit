@@ -855,8 +855,8 @@
         "saas"
       ]
     },
-    "muraschal/austin-tech-beer-map": {
-      "full": "muraschal/austin-tech-beer-map",
+    "marcelrapold/austin-tech-beer-map": {
+      "full": "marcelrapold/austin-tech-beer-map",
       "oneLiner": "Minimales HTML-Stub-Repository — Zweck aus README nicht ableitbar, vermutlich frühe Rohfassung einer Karten-App für Austin.",
       "purpose": "Zweck aus README nicht ableitbar. Der Repository-Name legt eine kartenbasierte Darstellung von Locations in Austin nahe; über Stack, Funktionsumfang und Zielgruppe finden sich im README keinerlei Angaben.",
       "stack": "HTML",
@@ -868,8 +868,8 @@
         "stub"
       ]
     },
-    "muraschal/BeerMap": {
-      "full": "muraschal/BeerMap",
+    "marcelrapold/BeerMap": {
+      "full": "marcelrapold/BeerMap",
       "oneLiner": "Interaktiver Craft-Beer-Location-Finder — HTML-Projekt, technische Details und Funktionsumfang aus README nicht ableitbar.",
       "purpose": "Zweck aus README nicht ableitbar. Name und Repository-Kontext deuten auf eine kartenbasierte Web-App zum Auffinden von Craft-Beer-Locations hin; Stack, Datenquellen und Zielgruppe sind nicht dokumentiert.",
       "stack": "HTML",
@@ -881,8 +881,8 @@
         "location"
       ]
     },
-    "muraschal/darden": {
-      "full": "muraschal/darden",
+    "marcelrapold/darden": {
+      "full": "marcelrapold/darden",
       "oneLiner": "Boilerplate-Repository «darden» — Zweck und Stack aus README nicht ableitbar.",
       "purpose": "Zweck aus README nicht ableitbar. Das Repository enthält lediglich einen Titel und den Begriff «darden-boilerplate»; welches Problem oder welcher konkrete Template-Zweck adressiert wird, ist nicht dokumentiert.",
       "stack": "unbekannt",
@@ -892,8 +892,8 @@
         "boilerplate"
       ]
     },
-    "muraschal/finCheck": {
-      "full": "muraschal/finCheck",
+    "marcelrapold/finCheck": {
+      "full": "marcelrapold/finCheck",
       "oneLiner": "Finanz-Analyse-Tool für den Eigengebrauch – Zweck und Stack aus README nicht ableitbar.",
       "purpose": "Zweck aus README nicht ableitbar. Die GitHub-Description benennt das Repo als Finanz-Analyse-Tool, weitere Informationen zu Funktionsumfang, Zielgruppe und Technologie-Stack fehlen vollständig.",
       "stack": "unbekannt",
@@ -904,8 +904,8 @@
         "analysis"
       ]
     },
-    "muraschal/hwz-cas-bitcoin-lightning": {
-      "full": "muraschal/hwz-cas-bitcoin-lightning",
+    "marcelrapold/hwz-cas-bitcoin-lightning": {
+      "full": "marcelrapold/hwz-cas-bitcoin-lightning",
       "oneLiner": "Kursunterlagen (Präsentationen, Praxisbeispiele, Praxisbeispiele) zum Bitcoin Lightning Network für den HWZ CAS Bitcoin Economy, kuratiert von Marcel Rapold.",
       "purpose": "Das Repo bündelt Lernmaterialien für einen Kurstag im HWZ CAS Bitcoin Economy: Es deckt L1-Limitierungen, Lightning-Grundlagen, Node-Setup, Liquidity-Strategien sowie Use Cases ab. Die Inhalte sind als Tagesstruktur mit Live-Beispiele, Gruppenübungen und einem Abschluss-Quiz aufgebaut.",
       "stack": "markdown",
@@ -919,8 +919,8 @@
         "course-material"
       ]
     },
-    "muraschal/hwz-case-studies": {
-      "full": "muraschal/hwz-case-studies",
+    "marcelrapold/hwz-case-studies": {
+      "full": "marcelrapold/hwz-case-studies",
       "oneLiner": "Statische HTML5-Index-Seite für HWZ Case Studies (PDF-Sammlung) mit Suchfunktion und responsivem Karten-Layout, deployed auf Vercel.",
       "purpose": "Die Seite dient als navigierbarer Index für Lehr-Case-Studies im PDF-Format. Sie bietet eine clientseitige Suchfunktion, Karten-Darstellung mit Hover-Effekten und direkte Links zu den Einzeldokumenten. Das Deployment erfolgt automatisiert via Vercel Static.",
       "stack": "html5, css3, vanilla javascript, vercel",
@@ -934,8 +934,8 @@
         "vercel"
       ]
     },
-    "muraschal/hwz-hangman": {
-      "full": "muraschal/hwz-hangman",
+    "marcelrapold/hwz-hangman": {
+      "full": "marcelrapold/hwz-hangman",
       "oneLiner": "Interaktives Hangman-Spiel mit EMBA-Buzzwords für HWZ Executive MBA-Studierende, gebaut auf Next.js 14 · TypeScript · Tailwind · Framer Motion, deployed auf Vercel.",
       "purpose": "Die App gamifiziert Fachvokabular des Executive MBA, indem Studierende MBA-Buzzwords im klassischen Hangman-Format erraten. Drei progressive Hinweise pro Wort sowie Konfetti-Animationen (canvas-confetti) und ein Glassmorphism-UI erhöhen die Lernmotivation. State-Management erfolgt via Zustand, Analytics via Vercel Analytics.",
       "stack": "next.js 14, typescript, tailwind css, framer-motion, radix-ui, zustand, canvas-confetti, vercel",
@@ -950,8 +950,8 @@
         "emba"
       ]
     },
-    "muraschal/IronMatrix100": {
-      "full": "muraschal/IronMatrix100",
+    "marcelrapold/IronMatrix100": {
+      "full": "marcelrapold/IronMatrix100",
       "oneLiner": "Persönliches 100-Tage-Fitness- und Ernährungsprotokoll (PPL-Split + Warrior Diet) als strukturierte Markdown-Dokumentation für den Eigengebrauch.",
       "purpose": "Das Repo dokumentiert ein 100-Tage-Selbstexperiment mit festem Trainingsrahmen (3× Gym/Woche, Push-Pull-Legs) und Warrior Diet (Mo–Fr, eine Abendmahlzeit). Es enthält Wochenstruktur, Trainingsplan, Essensplan, Makro-Zielkorridore und Lifestyle-Protokoll als versionierte Markdown-Dateien. Ziel ist maximale Konsistenz durch minimale Entscheidungskomplexität.",
       "stack": "markdown",
@@ -965,8 +965,8 @@
         "self-tracking"
       ]
     },
-    "muraschal/Kebab": {
-      "full": "muraschal/Kebab",
+    "marcelrapold/Kebab": {
+      "full": "marcelrapold/Kebab",
       "oneLiner": "Zweck aus README nicht ableitbar – kein README, keine Description, keine Dependencies vorhanden.",
       "purpose": "Zweck aus README nicht ableitbar. Weder README, noch GitHub-Description, noch Dependencies sind vorhanden; eine inhaltliche Einordnung ist nicht möglich.",
       "stack": "unbekannt",
@@ -976,8 +976,8 @@
         "unknown"
       ]
     },
-    "muraschal/kompetenzen": {
-      "full": "muraschal/kompetenzen",
+    "marcelrapold/kompetenzen": {
+      "full": "marcelrapold/kompetenzen",
       "oneLiner": "Persönliches Kompetenz-Inventar als Skill- und Expertise-Matrix – Inhalt über den Repo-Namen hinaus nicht ableitbar.",
       "purpose": "Das Repo trägt den Titel \"kompetenzen\" und enthält lediglich eine leere README-Überschrift. Konkreter Inhalt, Format und Verwendungszweck der Kompetenzmatrix sind aus den vorliegenden Metadaten nicht ableitbar.",
       "stack": "markdown",
@@ -989,8 +989,8 @@
         "documentation"
       ]
     },
-    "muraschal/lnhunt": {
-      "full": "muraschal/lnhunt",
+    "marcelrapold/mra-lnhunt": {
+      "full": "marcelrapold/mra-lnhunt",
       "oneLiner": "Gamifizierte Bitcoin-Lightning-Lern-App mit standortbasierten Quiz-Stationen, die via LNURL-Pay freigeschaltet werden – gebaut auf Next.js · Tailwind · Framer Motion, deployed auf Vercel.",
       "purpose": "LNHunt kombiniert eine digitale Schnitzeljagd mit echten Lightning-Zahlungen: Physische Codes an realen Orten geben Quiz-Stationen frei, die per LNURL-Pay entsperrt werden. Korrekte Antworten liefern digitale Schlüsselwörter, die zu einer finalen Phrase zusammengesetzt werden. Die App vermittelt praktische Lightning-Konzepte (Wallets, QR-Codes, Gebühren, LNURL) durch emotionale Verankerung und Teaminteraktion.",
       "stack": "next.js, javascript, tailwind css, framer-motion, radix-ui, axios, vercel",
@@ -1005,8 +1005,8 @@
         "next.js"
       ]
     },
-    "muraschal/LNthesis": {
-      "full": "muraschal/LNthesis",
+    "marcelrapold/LNthesis": {
+      "full": "marcelrapold/LNthesis",
       "oneLiner": "Interaktive Web-App zur wissenschaftlichen Analyse von sechs Bitcoin-Lightning-Network-Thesen mittels MECE-Framework, gebaut auf React · TypeScript · Express · Neon DB.",
       "purpose": "Die App strukturiert eine akademische Untersuchung von sechs kontroversen Lightning-Network-Hypothesen (u.a. L1 vs. L2, Zentralisierung, KYC-Gatekeeper) entlang ökonomischer, technologischer und regulatorischer Dimensionen. Das MECE-Framework stellt Vollständigkeit und Überschneidungsfreiheit der Analyse sicher. Features umfassen interaktive Suche, spieltheoretische Szenarien und BibTeX-Export.",
       "stack": "react, typescript, express.js, neon db, tailwind css, radix-ui, vercel",
@@ -1021,8 +1021,8 @@
         "academic"
       ]
     },
-    "muraschal/MCA-BIT25-1": {
-      "full": "muraschal/MCA-BIT25-1",
+    "marcelrapold/MCA-BIT25-1": {
+      "full": "marcelrapold/MCA-BIT25-1",
       "oneLiner": "Zufallsbasierter Team-Allocations-Generator für HWZ-Kurse mit CSV-Export und animierter Teilnehmer-Darstellung, gebaut auf Next.js · TypeScript · Tailwind · Radix UI.",
       "purpose": "Das Tool generiert zufällige Gruppen aus einer importierbaren Teilnehmerliste (CSV-Import) und stellt diese mit animierten Avatar-Karten (StudentChaos-Animation) visuell dar. Kursleiter können Gruppenanzahl konfigurieren, Gruppen zurücksetzen und das Ergebnis als CSV exportieren. State-Management erfolgt via React-Hooks, die Kernlogik ist in einer separaten Utility-Bibliothek (group-utils.ts) gekapselt.",
       "stack": "next.js, typescript, tailwind css, radix-ui, framer-motion, vercel",
@@ -1037,8 +1037,8 @@
         "team-generator"
       ]
     },
-    "muraschal/memory": {
-      "full": "muraschal/memory",
+    "marcelrapold/memory": {
+      "full": "marcelrapold/memory",
       "oneLiner": "Klassisches 4×4-Memory-Spiel mit skeuomorphem Holzdesign und Web-Audio-API-Feedback für Browser-Nutzer, gebaut auf React 18, TypeScript und Vite.",
       "purpose": "Implementiert ein rundenbasiertes Kartenspiel im Browser, bei dem Tierpaare per Flip-Animation aufgedeckt werden. Akustisches Feedback (Töne per Web Audio API für Drehen, Match, Kein Match, Sieg) ersetzt externe Audiodateien. Deployment erfolgt automatisch via Vercel bei Push auf den main-Branch.",
       "stack": "react 18 · typescript · vite · css3 · web audio api · vercel",
@@ -1052,8 +1052,8 @@
         "showcase"
       ]
     },
-    "muraschal/meta": {
-      "full": "muraschal/meta",
+    "marcelrapold/meta": {
+      "full": "marcelrapold/meta",
       "oneLiner": "WhatsApp-Bot, der eingehende Nachrichten via Meta Business API empfängt und mit OpenAI-Modellen beantwortet, deployed auf Vercel.",
       "purpose": "Empfängt WhatsApp-Nachrichten über einen Meta-Webhook, leitet sie an OpenAI-Modelle weiter und sendet die generierten Antworten zurück an den Absender. Konfiguration erfolgt ausschließlich über Umgebungsvariablen für Meta- und OpenAI-Credentials; Token-Erneuerung ist via App-Secret vorgesehen.",
       "stack": "javascript · node.js · openai api · meta whatsapp business api · axios · vercel",
@@ -1067,8 +1067,8 @@
         "serverless"
       ]
     },
-    "muraschal/muraschal": {
-      "full": "muraschal/muraschal",
+    "marcelrapold/muraschal": {
+      "full": "marcelrapold/muraschal",
       "oneLiner": "GitHub-Profil-README als öffentliche Visitenkarte des Owners mit Kurzcharakterisierung als Full-Stack-Operator.",
       "purpose": "Enthält ausschließlich die persönliche Profil-README für das GitHub-Nutzerprofil des Owners. Vermittelt Positionierung und Arbeitsweise in wenigen Zeilen; kein ausführbarer Code enthalten.",
       "stack": "markdown",
@@ -1080,8 +1080,8 @@
         "personal"
       ]
     },
-    "muraschal/paris": {
-      "full": "muraschal/paris",
+    "marcelrapold/paris": {
+      "full": "marcelrapold/paris",
       "oneLiner": "Fullstack-Experiment auf Next.js mit Leaflet-Karten, Framer-Motion-Animationen und Lenis-Smooth-Scroll — konkreter Anwendungsfall aus README nicht ableitbar.",
       "purpose": "Bootstrap-Projekt auf Basis von create-next-app mit Integration von Leaflet/react-leaflet für Karten, Framer Motion für UI-Animationen und Lenis für Smooth-Scrolling. Der fachliche Zweck der Applikation ist aus README und Repo-Metadaten nicht ableitbar.",
       "stack": "next.js · typescript · react · leaflet · react-leaflet · framer-motion · lenis · lucide-react · vercel",
@@ -1095,8 +1095,8 @@
         "experimental"
       ]
     },
-    "muraschal/pdf2text": {
-      "full": "muraschal/pdf2text",
+    "marcelrapold/pdf2text": {
+      "full": "marcelrapold/pdf2text",
       "oneLiner": "Self-hosted PDF-to-Text-Extraction-API mit Web-UI für URL- und Upload-Input, gebaut auf FastAPI und PyMuPDF.",
       "purpose": "Stellt einen HTTP-Dienst bereit, der PDFs per URL-Abruf (httpx) oder Datei-Upload via PyMuPDF in Text extrahiert. Zusatzfunktionen umfassen automatisches Verbinden gebrochener Zeilen, Header-/Footer-Erkennung sowie GPT-kompatible Token-Schätzung. Deployment via Docker oder lokaler Uvicorn-Instanz.",
       "stack": "python · fastapi · pymupdf · httpx · uvicorn · html/js · docker",
@@ -1110,8 +1110,8 @@
         "nlp"
       ]
     },
-    "muraschal/pulse": {
-      "full": "muraschal/pulse",
+    "marcelrapold/pulse": {
+      "full": "marcelrapold/pulse",
       "oneLiner": "Echtzeit-Activity-Dashboard oder Monitoring-Service — Zweck, Stack und Implementierungsdetails aus README und Metadaten nicht ableitbar.",
       "purpose": "Zweck aus README nicht ableitbar. Weder README noch Dependencies oder Topics liefern ausreichend Information zur Ableitung von Funktion, Stack oder Zielgruppe.",
       "stack": "unbekannt",
@@ -1122,8 +1122,8 @@
         "dashboard"
       ]
     },
-    "muraschal/Radio-X-old": {
-      "full": "muraschal/Radio-X-old",
+    "marcelrapold/Radio-X-old": {
+      "full": "marcelrapold/Radio-X-old",
       "oneLiner": "KI-generierter Radiosender im GTA/Cyberpunk-Stil mit Spotify-Musik, ElevenLabs-TTS und GPT-News-Snippets — archivierte Python-Ursprungsversion.",
       "purpose": "Automatisiert die Produktion eines personalisierten Radiostreams durch Kombination von Spotify-Tracks, ElevenLabs-TTS-Voice-Overs und GPT-generierten News- und Werbeschnipseln. Der Mix wird als MP3 oder Livestream ausgegeben. Dieses Repo repräsentiert die erste Python-Implementierung, die durch nachfolgende Iterationen (radiox-n8n) abgelöst wurde.",
       "stack": "python · spotify api · elevenlabs api · openai gpt · docker",
@@ -1138,8 +1138,8 @@
         "audio"
       ]
     },
-    "muraschal/radiox-n8n": {
-      "full": "muraschal/radiox-n8n",
+    "marcelrapold/radiox-n8n": {
+      "full": "marcelrapold/radiox-n8n",
       "oneLiner": "n8n-Workflow-Orchestrierung für die RadioX-AI-Radio-Pipeline mit FastAPI-Backend, ElevenLabs-TTS und Supabase-Persistenz.",
       "purpose": "Verlagert die Orchestrierung der RadioX-Pipeline von Python-Skripten auf n8n-Workflows, die über HTTP API-Calls ein FastAPI-Backend für Content-Generierung (GPT), TTS (ElevenLabs) und Streaming (Icecast) ansprechen. Supabase dient als Persistenzschicht; Scheduling und Fehlerbehandlung obliegen n8n.",
       "stack": "python · fastapi · n8n · elevenlabs api · openai gpt · supabase · icecast",
@@ -1154,8 +1154,8 @@
         "automation"
       ]
     },
-    "muraschal/radiox-tts": {
-      "full": "muraschal/radiox-tts",
+    "marcelrapold/radiox-tts": {
+      "full": "marcelrapold/radiox-tts",
       "oneLiner": "Dedizierter Text-to-Speech-Microservice für die RadioX-AI-Radio-Pipeline — Implementierungsdetails aus leerem README nicht ableitbar.",
       "purpose": "Zweck aus README nicht ableitbar. Aus Repo-Name und Kontext der RadioX-Projekt-Familie ist eine TTS-Microservice-Funktion (vermutlich ElevenLabs) inferierbar, jedoch ohne Bestätigung durch Code, Dependencies oder Dokumentation.",
       "stack": "python",
@@ -1168,8 +1168,8 @@
         "radiox"
       ]
     },
-    "muraschal/toeffparadies.ch": {
-      "full": "muraschal/toeffparadies.ch",
+    "marcelrapold/toeffparadies.ch": {
+      "full": "marcelrapold/toeffparadies.ch",
       "oneLiner": "Unternehmenswebsite für den Motorradhändler Töff Paradies Ernst Känel (Küsnacht ZH) mit Glassmorphism-Design, SEO und JSON-LD, gebaut auf Next.js 14 App Router.",
       "purpose": "Stellt die öffentliche Web-Präsenz eines Motorrad-Handels- und Reparaturbetriebs bereit, inklusive Seiten für Verkauf, Anhängervermietung, Kontakt und Impressum. SEO-Optimierung erfolgt via Next.js Metadata API, Robots/Sitemap und strukturierten JSON-LD-LocalBusiness-Daten. Light/Dark-Theme mit Custom-CSS-Variables und Glassmorphism-Look, kein CSS-Framework.",
       "stack": "next.js 14 · typescript · react · custom css · vercel",
@@ -1183,8 +1183,8 @@
         "frontend"
       ]
     },
-    "muraschal/zvv-landingpage": {
-      "full": "muraschal/zvv-landingpage",
+    "marcelrapold/zvv-landingpage": {
+      "full": "marcelrapold/zvv-landingpage",
       "oneLiner": "Sammlung von Marketing- und Kampagnen-Landingpage-Templates für den Zürcher Verkehrsverbund (ZVV).",
       "purpose": "Stellt wiederverwendbare Landingpage-Templates für ZVV-Marketingkampagnen bereit. Technologie-Stack und konkreter Aufbau sind aus README und Dependencies nicht ableitbar – kein README und keine Package-Dependencies vorhanden. Zweck ergibt sich ausschliesslich aus der GitHub-Description.",
       "stack": "unbekannt (keine Dependencies oder README vorhanden)",
@@ -1197,8 +1197,8 @@
         "transit"
       ]
     },
-    "muraschal/zvv-lnticket": {
-      "full": "muraschal/zvv-lnticket",
+    "marcelrapold/zvv-lnticket": {
+      "full": "marcelrapold/zvv-lnticket",
       "oneLiner": "PoC-Webapp für ZVV-Ticketkauf via abstrahiertem Bitcoin-Lightning-Payment mit Apple-Wallet-Export (.pkpass), gebaut auf Next.js und shadcn/ui.",
       "purpose": "Zeigt einen vollständigen, UX-fokussierten Ticketkauf-Flow: Nutzer wählt ein ZVV-Ticket, bezahlt via prototypischem Lightning-Payment und erhält das Ticket als .pkpass-Datei mit personalisierten QR-Code direkt in die Apple Wallet. Die Lightning-Integration ist bewusst abstrahiert; der Fokus liegt auf der Machbarkeitspruefung der Wallet-Integration mittels passkit-generator. Deployment erfolgt auf Vercel.",
       "stack": "Next.js · shadcn/ui · Tailwind CSS · passkit-generator · qrcode.react · React Hook Form · TypeScript · Vercel",
@@ -1213,8 +1213,8 @@
         "transit"
       ]
     },
-    "muraschal/zvv-mcp": {
-      "full": "muraschal/zvv-mcp",
+    "marcelrapold/zvv-mcp": {
+      "full": "marcelrapold/zvv-mcp",
       "oneLiner": "MCP-Server, der ZVV-GTFS-Daten via Spice.ai und GPT-4o für natürlichsprachliche Fahrplanabfragen zugänglich macht.",
       "purpose": "Verbindet öffentliche GTFS-Verkehrsdaten des ZVV (opendata.swiss) mit einer Spice.ai-Datenverarbeitungsschicht und GPT-4o, um natürlichsprachliche Abfragen auf Fahrplandaten zu ermöglichen. Der MCP-Server (Model Context Protocol) fungiert als Brücke zwischen dem LLM und den strukturierten Verkehrsdaten. Das Frontend ist als Next.js-Applikation konzipiert.",
       "stack": "Next.js · Spice.ai · OpenAI GPT-4o · GTFS · TypeScript",
@@ -1229,8 +1229,8 @@
         "mcp"
       ]
     },
-    "muraschal/zvv-pm": {
-      "full": "muraschal/zvv-pm",
+    "marcelrapold/zvv-pm": {
+      "full": "marcelrapold/zvv-pm",
       "oneLiner": "Internes PWA-Dashboard zur abteilungsübergreifenden Projekt­übersicht des ZVV, gebaut mit Vanilla JS und Upstash Redis.",
       "purpose": "Bietet dem ZVV-internen Team eine filterbare, nach Abteilungen strukturierte Übersicht aller laufenden Projekte inkl. Detailansicht. Die Applikation ist als Progressive Web App (PWA) mit Offline-Unterstützung ausgeführt. Persistenz erfolgt über Upstash Redis; das Frontend setzt auf reines HTML/CSS/JavaScript ohne Framework.",
       "stack": "HTML5 · Vanilla JS · CSS Grid · PWA · Upstash Redis",
@@ -1244,8 +1244,8 @@
         "dashboard"
       ]
     },
-    "muraschal/zvv-statuspage": {
-      "full": "muraschal/zvv-statuspage",
+    "marcelrapold/zvv-statuspage": {
+      "full": "marcelrapold/zvv-statuspage",
       "oneLiner": "Next.js-basierte Statusseite zur Anzeige des Betriebszustands von ZVV-Diensten, mit vollständigem Radix-UI-Komponentensatz.",
       "purpose": "Stellt eine Statusseite für ZVV-Systemdienste bereit, über die Betriebs- und Störungszustände kommuniziert werden können. Das Projekt basiert auf dem Next.js-Standardboilerplate (create-next-app) und verwendet ein umfassendes Set an Radix-UI-Primitives; konkreter Funktionsumfang jenseits der Boilerplate ist aus dem README nicht ableitbar.",
       "stack": "Next.js · Radix UI · React Hook Form · Tailwind CSS · TypeScript · Vercel",
@@ -1259,8 +1259,8 @@
         "next.js"
       ]
     },
-    "muraschal/zvv-styleguide": {
-      "full": "muraschal/zvv-styleguide",
+    "marcelrapold/zvv-styleguide": {
+      "full": "marcelrapold/zvv-styleguide",
       "oneLiner": "Design-System und Branding-Guidelines für den Zürcher Verkehrsverbund (ZVV).",
       "purpose": "Dokumentiert und konsolidiert die visuellen Design-Standards und Branding-Vorgaben des ZVV. Technologie-Stack, konkreter Aufbau und Werkzeuge sind aus README und Dependencies nicht ableitbar – kein README und keine Package-Dependencies vorhanden.",
       "stack": "unbekannt (keine Dependencies oder README vorhanden)",

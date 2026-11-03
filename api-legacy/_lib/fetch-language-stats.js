@@ -1,4 +1,4 @@
-const USER = process.env.GITHUB_USER || 'muraschal';
+const USER = process.env.GITHUB_USER || 'marcelrapold';
 const ORGS = (process.env.GITHUB_ORGS || '').split(',').map(s => s.trim()).filter(Boolean);
 const { filterRepos, isExcludedRepo } = require('./repo-exclusions');
 
