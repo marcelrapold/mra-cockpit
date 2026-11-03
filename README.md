@@ -9,8 +9,8 @@ Engineering-Dashboard von Marcel Rapold: Commits, Deployments, Uptime, Sprachen 
 aus **GitHub**, **Vercel** und **Supabase** in einer Ansicht. Next.js (App Router) auf Vercel,
 Daten aus gecachten Pipelines (Redis, GitHub Actions) mit öffentlichem und privatem Modus.
 
-[![E2E Tests](https://github.com/marcelrapold/mra-cockpit/actions/workflows/e2e.yml/badge.svg)](https://github.com/marcelrapold/mra-cockpit/actions/workflows/e2e.yml)
-[![Update Dashboard Data](https://github.com/marcelrapold/mra-cockpit/actions/workflows/update-data.yml/badge.svg)](https://github.com/marcelrapold/mra-cockpit/actions/workflows/update-data.yml)
+[![E2E Tests](https://github.com/rapold-io/mra-cockpit/actions/workflows/e2e.yml/badge.svg)](https://github.com/rapold-io/mra-cockpit/actions/workflows/e2e.yml)
+[![Update Dashboard Data](https://github.com/rapold-io/mra-cockpit/actions/workflows/update-data.yml/badge.svg)](https://github.com/rapold-io/mra-cockpit/actions/workflows/update-data.yml)
 [![Live](https://img.shields.io/badge/live-cockpit.rapold.io-009DFF)](https://cockpit.rapold.io)
 [![Login](https://img.shields.io/badge/login-auth.rapold.io-6f42c1)](docs/login-auth-rapold-io.md)
 [![Atlas](https://img.shields.io/badge/design-Atlas-050B19)](https://atlas.rapold.io)
@@ -29,9 +29,9 @@ Daten aus gecachten Pipelines (Redis, GitHub Actions) mit öffentlichem und priv
 | | |
 |---|---|
 | Live | [cockpit.rapold.io](https://cockpit.rapold.io) |
-| Repository | [marcelrapold/mra-cockpit](https://github.com/marcelrapold/mra-cockpit) |
-| Login (IdP) | [auth.rapold.io](https://auth.rapold.io) · Repo [mra-auth](https://github.com/marcelrapold/mra-auth) · [Anleitung](docs/login-auth-rapold-io.md) |
-| Designsystem | [Atlas](https://atlas.rapold.io) · Repo [mra-atlas](https://github.com/marcelrapold/mra-atlas) |
+| Repository | [rapold-io/mra-cockpit](https://github.com/rapold-io/mra-cockpit) |
+| Login (IdP) | [auth.rapold.io](https://auth.rapold.io) · Repo [mra-auth](https://github.com/rapold-io/mra-auth) · [Anleitung](docs/login-auth-rapold-io.md) |
+| Designsystem | [Atlas](https://atlas.rapold.io) · Repo [mra-atlas](https://github.com/rapold-io/mra-atlas) |
 | API | `/api/v1/*` (Bearer-Token), Übersicht unter `/api/v1/summary` |
 
 ---
@@ -302,7 +302,7 @@ Einrichtung in Authelia und Vercel, Tests und Rückfall: [docs/login-auth-rapold
 ## Marke
 
 Signet, Favicon und App-Icons verwenden das freigegebene Cockpit-Signet aus dem Designsystem
-[Atlas](https://atlas.rapold.io) ([mra-atlas](https://github.com/marcelrapold/mra-atlas),
+[Atlas](https://atlas.rapold.io) ([mra-atlas](https://github.com/rapold-io/mra-atlas),
 `brands/rapold/assets/logos/cockpit.svg`, freigegeben am 12.10.2026). Die SVG-Master liegen
 unverändert unter [`public/brand/`](public/brand); `node scripts/generate-assets.mjs` erzeugt daraus
 `favicon.svg` (hell/dunkel nach Farbschema) und die PNG-Icons. Das Signet ist nicht Teil der

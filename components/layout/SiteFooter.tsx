@@ -41,7 +41,7 @@ export function SiteFooter() {
             Lunar
           </Link>
           <a
-            href="https://github.com/marcelrapold/mra-cockpit"
+            href="https://github.com/rapold-io/mra-cockpit"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-sky-300"
