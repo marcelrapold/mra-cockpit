@@ -627,7 +627,7 @@
     "rapold-io/aeon-cli": {
       "full": "rapold-io/aeon-cli",
       "oneLiner": "Plugin-basiertes Bash/Python-CLI-Framework für Raspberry-Pi-Fleet-Management und Cyberpunk-tmux-Dashboards, betrieben durch den AI-Agenten ÆON.",
-      "purpose": "ÆON CLI ermöglicht die zentrale Verwaltung einer Raspberry-Pi-Flotte von einem einzigen Terminal aus — inklusive One-Command-Deployment, Fleet-Sync und auflösungsadaptiven tmux-Dashboards mit Matrix-Animationen, Live-Krypto-Charts und System-Monitoring. Das Framework erkennt Display-Auflösungen automatisch (640×480 bis 4K) und passt sein Layout entsprechend an. Archiviert; Nachfolger ist das öffentliche Repo `rapold-io/cli`.",
+      "purpose": "ÆON CLI ermöglicht die zentrale Verwaltung einer Raspberry-Pi-Flotte von einem einzigen Terminal aus — inklusive One-Command-Deployment, Fleet-Sync und auflösungsadaptiven tmux-Dashboards mit Matrix-Animationen, Live-Krypto-Charts und System-Monitoring. Das Framework erkennt Display-Auflösungen automatisch (640×480 bis 4K) und passt sein Layout entsprechend an. Archiviert; Nachfolger ist das öffentliche Repo `marcelrapold/cli`.",
       "stack": "bash 5.x, python 3.9+, tmux, raspberry pi",
       "audience": "Eigengebrauch (Marcel Rapold / ÆON-Ökosystem)",
       "status": "archived",
@@ -671,8 +671,8 @@
         "automation"
       ]
     },
-    "rapold-io/cli": {
-      "full": "rapold-io/cli",
+    "marcelrapold/cli": {
+      "full": "marcelrapold/cli",
       "oneLiner": "Öffentliches, multi-agent Bash/Python-CLI-Framework für Raspberry-Pi-Fleet-Management und Cyberpunk-tmux-Dashboards mit zwei AI-Agenten-Identitäten (ÆON & ÆTHRA).",
       "purpose": "Öffentliche Weiterentwicklung (v2.0.0) von `aeon-cli`, nun mit Unterstützung für zwei AI-Agenten-Identitäten mit getrennten Entrypoints (`aeon` / `aethra`). Das Framework vereint Fleet-Deployment, tmux-Dashboard-Rendering und modulare Plugin-Architektur auf Raspberry-Pi-Hardware. Jede Identität teilt dieselbe Codebasis, hat aber eine eigene Persönlichkeit und Fokusdomäne.",
       "stack": "bash 5.x, python 3.9+, tmux, raspberry pi",
@@ -839,8 +839,8 @@
         "i18n"
       ]
     },
-    "rapold-io/belegfuchs": {
-      "full": "rapold-io/belegfuchs",
+    "marcelrapold/belegfuchs": {
+      "full": "marcelrapold/belegfuchs",
       "oneLiner": "Spesen-App in der Spec-Phase für DACH-Handwerksbetriebe — Mobile-First, KI-OCR für Belege, DATEV/bexio-Export, geplanter Stack: SwiftUI + Next.js 15 + Supabase.",
       "purpose": "Belegfuchs richtet sich an 2–10-Personen-Handwerksbetriebe in DE und CH: Monteure fotografieren Belege auf der Baustelle, KI extrahiert Betragsfelder inklusive USt/MWST-Erkennung, der Betriebsinhaber genehmigt und exportiert zu DATEV (DE) bzw. bexio/Banana (CH). Ein V1.5-Segment adressiert zusätzlich Solo-Selbstständige und Heilberufler. Das Repo befindet sich explizit in der Spec-Phase; Code-Artefakte sind noch nicht vorhanden.",
       "stack": "SwiftUI · Next.js 15 · Supabase (Postgres, Storage, Edge Functions) · RevenueCat · Stripe · Resend · VisionKit (OCR, TBD)",
